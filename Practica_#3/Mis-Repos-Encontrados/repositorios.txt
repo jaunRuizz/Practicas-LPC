@@ -1,6 +1,0 @@
-https://api.github.com/repos/jaunRuizz/Mi-practica-1
-https://api.github.com/repos/jaunRuizz/practica
-https://api.github.com/repos/jaunRuizz/ProyectosPC
-https://api.github.com/repos/jaunRuizz/Python
-https://api.github.com/repos/jaunRuizz/Script-Correos-Electronicos
-https://api.github.com/repos/jaunRuizz/Tareas-
